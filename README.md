@@ -1,4 +1,4 @@
-# Oops_porject
+# Oops_project
 Overview
 The Student Management System is a simple yet effective Python project developed using Object-Oriented Programming (OOP) principles. It helps manage basic student information such as name, roll number, and marks, and performs operations like displaying student details, updating marks, and generating results. This project is designed to be clean, easy to understand, and exam-friendly, making it ideal for beginners and academic submissions.
 
